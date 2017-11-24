@@ -4,6 +4,7 @@ public class Student {
 	private String name;
 	private Integer age;
 	private Integer childrens;
+	private String country;
 
 	public Student() {
 		super();
