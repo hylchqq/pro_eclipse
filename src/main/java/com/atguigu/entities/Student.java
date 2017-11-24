@@ -8,6 +8,12 @@ public class Student {
 		super();
 	}
 
+	public Student(String name, Integer age) {
+		super();
+		this.name = name;
+		this.age = age;
+	}
+
 	public String getName() {
 		return name;
 	}
